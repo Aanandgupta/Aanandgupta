@@ -1,7 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
-
+<a href="https://www.instagram.com/anandgupta1477/">
+  <img align="left" alt="AnandGupta | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anand-gupta-25a800193/">
+  <img align="left" alt="AnandGupta LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 Hi, I'm [AnandGupta!](https://anand-gupta.netlify.app/),I am a Full Stack Mern Developer and Problem Solver🚀 from India.Currently in second year of my college.
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/7209c12fa700f3f89c60f29b8cdc3dce27b1239e592fd36a3d3411e75746feb2/68747470733a2f2f692e696d6775722e636f6d2f4f544b674453742e676966" width="500" height="320" />
