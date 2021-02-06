@@ -7,6 +7,7 @@
 </a>
 Hi, I'm <a href="https://anand-gupta.netlify.app/">[AnandGupta!]</a>,I am a Full Stack Mern Developer and Problem Solver🚀 from India.Currently in second year of my college.
 <br>
+<br/>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/7209c12fa700f3f89c60f29b8cdc3dce27b1239e592fd36a3d3411e75746feb2/68747470733a2f2f692e696d6775722e636f6d2f4f544b674453742e676966" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
@@ -33,8 +34,9 @@ Hi, I'm <a href="https://anand-gupta.netlify.app/">[AnandGupta!]</a>,I am a Full
 
 <br/>
 <br/>
+<br/>
 
-📈 My GitHub Stats
+<p align="center">📈 My GitHub Stats</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aanandgupta&show_icons=true&theme=gotham" alt="AnandGupta" />
 
