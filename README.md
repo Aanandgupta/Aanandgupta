@@ -13,7 +13,7 @@ Hi, I'm <a href="https://anand-gupta.netlify.app/">[AnandGupta!]</a>,I am a Full
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on some projects that aims at solving real world problems.
 - 🌱I like competitive programming and taking part in programming challenges.
-- 👨🏽‍💻[My Portfolio Website](https://anand-gupta.netlify.app/){:target="_blank"}
+- 👨🏽‍💻[My Portfolio Website](https://anand-gupta.netlify.app/){:target="_blank" rel="noopener"}
 
 **Languages and Tools:**  
 
