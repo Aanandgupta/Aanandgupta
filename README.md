@@ -38,7 +38,8 @@ Hi, I'm <a href="https://anand-gupta.netlify.app/">[AnandGupta!]</a>,I am a Full
 
 <p align="center">📈 My GitHub Stats</p>
 
-<p align="center"> [![Aanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AanandGupta)](https://github.com/AanandGupta/github-readme-stats)
+<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanandgupta)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
